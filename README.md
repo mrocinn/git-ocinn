@@ -1,4 +1,4 @@
-## Data Analytics Portfol
+## Data Analyst Portfol
 
 ## Introduction
 
