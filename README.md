@@ -1,16 +1,14 @@
 ## Data Analytics Portfol
 
-Hi!
+##Introduction
 
-I am a data analyst with experience in:
+Hello!
 
-- Python
-- SQL
-- Power BI
-- Excel
-- R
+Welcome to my potfolio, My name is Chukwuemeka Innocent Ogbonnaya and I am excited to have you here.
 
-This repository contains my data analysis projects.
+In this repository you will come across several folders that demostrates the following skills
+Data analysis and visualization, data modeling using machine learning algorithms and 
+statistical analysis with R Programing language.
 
 ## Projects
 
