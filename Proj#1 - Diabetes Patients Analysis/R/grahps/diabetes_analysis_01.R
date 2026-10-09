@@ -5,7 +5,6 @@
 # Dataset : 768 rows. Columns: pregnancies, glucose, blood_pressure,
 #           skin_thickness, insulin, bmi, diabetes_pedigree_function, age,
 #           outcome ("diabetic" / "Nondiabetic")
-# Author  : <your name>
 # Updated : 2026
 #
 # Key data quality issue this script addresses:
